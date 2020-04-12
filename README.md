@@ -130,3 +130,5 @@ General Public License for more details.
 
 You should  have received  a copy of  the GNU General  Public License
 along with this program. If not, see <http://www.gnu.org/licenses/>.
+
+https://www.pcspecialist.co.uk/forums/showthread.php?59573-Successful-Ubuntu-18-04-Bionic-Beaver-installation-on-Optimus-IX-15-6-quot
